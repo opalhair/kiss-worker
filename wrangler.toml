@@ -1,4 +1,4 @@
-name = "kiss-worker"
+name = "kiss-worker-opalhair"
 main = "src/index.js"
 compatibility_date = "2023-07-28"
 [[kv_namespaces]]
